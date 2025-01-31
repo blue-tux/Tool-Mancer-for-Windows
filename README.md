@@ -9,7 +9,7 @@ Tool-Mancer-for-Windows
  é estritamente proibido e pode violar leis locais e internacionais.
  O usuário é totalmente responsável por suas ações ao utilizar esta ferramenta.
 
-=============================================================================================
+============================================================================================
 
 Tool-Mancer
 

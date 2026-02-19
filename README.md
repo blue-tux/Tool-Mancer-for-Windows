@@ -35,12 +35,14 @@ Requisitos do Sistema
 
 - **Sistema Operacional**: Windows 7 ou superior
 
-Como Instalar
+Como Instalar no PoweShell
 
  1. Clone o repositório:
-bash
 git clone https://github.com/blue-tux/Tool-Mancer-for-Windows
+
+Se não tiver o "git" em seu Windows, utilize o seguinte comando: winget install --id Git.Git -e --source winget
+Isso fará com que você instale o git em seus windows, agora sim, volte para o passo 1.
 
  2. cd tool-mancer
 
- 3. mancer.bat
+ 3. ./mancer.bat
